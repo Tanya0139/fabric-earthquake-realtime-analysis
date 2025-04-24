@@ -7,6 +7,9 @@ End-to-end data pipeline built using Microsoft Fabric's Data Factory, Data Engin
 
 ## 🖼️ Gallery – Quick Preview
 
+**Daahboard**  
+<img src="https://github.com/Tanya0139/tanya0139/blob/main/assets_tanya/fabric-earthquake.png">
+
 **Data Pipeline Overview**  
 ![Data Pipeline](Ref-ss/datapipeline.png)
 
